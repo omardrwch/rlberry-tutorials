@@ -1,3 +1,8 @@
+# Development & data folders
+dev/
+rlberry_data/
+temp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
